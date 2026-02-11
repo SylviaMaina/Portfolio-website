@@ -1,3 +1,6 @@
+# Portfolio-website
+Updated potfolio showcasing my recent work
+
 # Minimalist Portfolio with GSAP Animations
 
 A beautiful, faceless portfolio website built with Next.js 15, TypeScript, Tailwind CSS, and GSAP animations.
