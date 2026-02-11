@@ -91,7 +91,7 @@ const projectsData: Record<string, ProjectDetail> = {
       {
         title: "Real-time Performance",
         description:
-          "Data was not being updated real-time when a user uploaded a story, used web sockets to ensure that they did without refresh",
+          "Data was not being updated real-time when a user uploaded a story, used web sockets to ensure that they did without refresh.",
       },
       {
         title: "Language switch",
@@ -101,7 +101,7 @@ const projectsData: Record<string, ProjectDetail> = {
       {
         title: "Persistent login",
         description:
-          "The client requiered the user to stay logged in to the app even if they restarted their machine",
+          "The client requiered the user to stay logged in to the app even if they restarted their machine.",
       },
     ],
     learnings: [
@@ -135,7 +135,7 @@ const projectsData: Record<string, ProjectDetail> = {
       "Multi-interface platform",
       "geo-location integration",
       "API Integration",
-      "Responsive",
+      "Responsive on all devices",
    
     ],
     screenshots: [
